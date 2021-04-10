@@ -3,9 +3,13 @@ R codes to generate a manhattan plot in R
 
 # Author
 Lucas Kopecky Bobadilla
+
 Github: https://github.com/kopeckyl
+
 Twitter: https://twitter.com/lkbobadilla
+
 University of Illinois - Urbana/Champaign
+
 Crop Sciences Department
 
 # Code Tutorial
